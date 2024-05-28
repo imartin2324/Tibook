@@ -400,3 +400,119 @@ header{
     margin-right: 10px;
     text-align: center;
 }
+
+/*pantalla de ajustes*/
+.inicio{
+    height: 5rem;
+    width: 100%;
+    background-color: #B93EFF;
+    position: fixed;
+    top: 0;
+    text-align: center;
+    
+    
+}
+
+h1{
+    color: #FFF;
+    font-family: Helvetica; 
+    font-size: 2rem;
+    line-height: 5rem;
+}
+.inicio{
+    background-image: url(../img/Grupo\ 355.svg);
+    background-repeat: no-repeat;
+    background-position: 25px;
+    background-size: 25px; 
+}
+.cuerpo{
+    position: absolute;
+    top: 5rem;
+    background-color: #B93EFF;
+    width: 100%;   
+}
+
+li{
+height: 70px;
+width: 100%;
+background-color: white;
+list-style: none;
+color: #B93EFF;
+font-family: Helvetica; 
+font-size: 1.5rem;
+margin-top: rem;
+margin-bottom: 0.15rem;
+padding-left: 1rem;
+line-height: 70px;
+font-weight: 600;
+}
+.flecha{
+    background-image: url(../img/Grupo\ 363.svg);
+    background-repeat: no-repeat;
+    background-position: 360px;
+    background-size: 18px; 
+}
+/*pantalla de Notificaciones*/
+
+.notificaciones{
+    height: 5rem;
+    width: 100%;
+    background-color: #B93EFF;
+    position: fixed;
+    top: 0;
+    text-align: center;
+    background-image: url(../img/Grupo\ 355.svg);
+    background-repeat: no-repeat;
+    background-position: 25px;
+    background-size: 25px; 
+    
+    
+}
+.cuerponotificaciones{
+    position: absolute;
+    width: 100%;
+    top: 5rem;
+}
+.slider{
+    background-image: url(../img/Slider.svg);
+    background-repeat: no-repeat;
+    background-position: 300px;
+    background-size: 70px;
+}
+/*pantalla de Subir Producto*/
+
+.producto{
+    height: 5rem;
+    width: 100%;
+    background-color: #B93EFF;
+    position: fixed;
+    top: 0;
+    text-align: center;
+    background-image: url(../img/x\ Blanca.svg);
+    background-repeat: no-repeat;
+    background-position: 25px;
+    background-size: 25px;
+}
+.imagenproducto{
+height: 17rem;
+width: 100%;
+background-color: #404040;
+}
+.camara{
+    height: 4rem;
+    width: 4rem;
+    background-color: red;
+    margin: 1rem ;
+    float: left;
+   
+    
+    
+}
+.descripcionproducto{
+height: 28rem;
+width: 100%;
+background-color: #9d3535;
+}
+.footerproducto{
+
+}
